@@ -40,7 +40,7 @@ API地址：https://api.ikuncode.cc/
 
 填写完成后直接在下面输入或附加图片
 
-![image.png](image%201.png)
+<img width="1275" height="911" alt="image" src="https://github.com/user-attachments/assets/4da2e201-1743-4cae-9027-afa167b8084f" />
 
 也可查看生成详情并进行编辑
 
