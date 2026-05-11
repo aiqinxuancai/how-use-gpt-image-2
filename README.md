@@ -44,11 +44,13 @@ API地址：https://api.ikuncode.cc/
 
 也可查看生成详情并进行编辑
 
-![image.png](image%202.png)
+<img width="926" height="652" alt="image" src="https://github.com/user-attachments/assets/dff59ef3-1f90-4b84-a8f1-514c6d5f2a31" />
 
 ---
 
 ## 方式2：使用Cherry Studio
+
+有明显缺点，更新慢，不支持4k设置
 
 下载Cherry Studio，并安装：[https://www.cherry-ai.com/download](https://www.cherry-ai.com/download)
 
