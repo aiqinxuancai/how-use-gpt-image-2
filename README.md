@@ -21,7 +21,7 @@ API地址：https://right.codes/draw/
 [老农](https://www.packyapi.com/)：（0.04/次） **已验证可用 可以4K 推荐！**
 
 ```html
-API地址：[https://www.packyapi.com/](https://www.packyapi.com/console)   **在[gpt-image-playground](https://gpt-image-playground.cooksleep.dev/)配置中要开base64**
+API地址：https://www.packyapi.com/   **在gpt-image-playground配置中要开base64**
 ```
 
 [鸡站](https://api.ikuncode.cc/)：（0.06/次） **已验证可用（不稳定）**
