@@ -30,7 +30,7 @@ API地址：https://api.ikuncode.cc/
 
 ## 方式1，使用专为gpt-image-2设计的页面
 
-访问 [https://gpt-image-playground.cooksleep.dev/](https://gpt-image-playground.cooksleep.dev/) 
+访问 [https://gpt-image-playground.cooksleep.dev/](https://gpt-image-playground.cooksleep.dev/) ，该项目的key都存储在前端，不存在丢失key风险
 
 进入后按照上面提供的转发站API地址填写API URL
 
