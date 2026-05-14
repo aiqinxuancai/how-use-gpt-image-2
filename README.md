@@ -34,7 +34,7 @@ API地址：https://api.ikuncode.cc/
 
 进入后按照上面提供的转发站API地址填写API URL
 
-![image.png](image.png)
+<img width="794" height="637" alt="image" src="https://github.com/user-attachments/assets/09b0f886-d7c4-4322-8174-9df62a34ee16" />
 
 填写完成后直接在下面输入或附加图片
 
