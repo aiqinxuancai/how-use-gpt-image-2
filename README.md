@@ -36,7 +36,7 @@ API地址：https://api.ikuncode.cc/
 
 <img width="794" height="637" alt="image" src="https://github.com/user-attachments/assets/09b0f886-d7c4-4322-8174-9df62a34ee16" />
 
-填写完成后直接在下面输入或附加图片
+填写完成后直接在下面输入提示词生成图片
 
 <img width="1275" height="911" alt="image" src="https://github.com/user-attachments/assets/4da2e201-1743-4cae-9027-afa167b8084f" />
 
