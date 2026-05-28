@@ -1,8 +1,6 @@
-# 用转发站的gpt-image-2
+# 教你使用gpt-image-2
 
 ## 常用转发站地址
-
-**API地址**填写转发站提供的地址，比如以下转发站：
 
 **请按喜好自行挑选，充值不要充多，够用就行，密钥请在对应的转发站控制台中生成**
 
@@ -21,7 +19,7 @@ API地址：https://right.codes/draw/
 [老农](https://www.packyapi.com/)：（0.04/次） **已验证可用 可以4K 推荐！**
 
 ```html
-API地址：[https://www.packyapi.com/](https://www.packyapi.com/console)   **在[gpt-image-playground](https://gpt-image-playground.cooksleep.dev/)配置中要开base64**
+API地址：https://www.packyapi.com/   **在gpt-image-playground配置中要开base64**
 ```
 
 [鸡站](https://api.ikuncode.cc/)：（0.06/次） **已验证可用（不稳定）**
@@ -63,23 +61,25 @@ API地址：https://api.ikuncode.cc/
 
 ## 方式2，使用专为gpt-image-2设计的页面
 
-访问 [https://gpt-image-playground.cooksleep.dev/](https://gpt-image-playground.cooksleep.dev/) 
+访问 [https://gpt-image-playground.cooksleep.dev/](https://gpt-image-playground.cooksleep.dev/) ，该项目的key都存储在前端，不存在丢失key风险
 
 进入后按照上面提供的转发站API地址填写API URL
 
-![image.png](image.png)
+<img width="794" height="637" alt="image" src="https://github.com/user-attachments/assets/09b0f886-d7c4-4322-8174-9df62a34ee16" />
 
-填写完成后直接在下面输入或附加图片
+填写完成后直接在下面输入提示词生成图片
 
-![image.png](image%201.png)
+<img width="1275" height="911" alt="image" src="https://github.com/user-attachments/assets/4da2e201-1743-4cae-9027-afa167b8084f" />
 
 也可查看生成详情并进行编辑
 
-![image.png](image%202.png)
+<img width="926" height="652" alt="image" src="https://github.com/user-attachments/assets/dff59ef3-1f90-4b84-a8f1-514c6d5f2a31" />
 
 ---
 
 ## 方式3：使用Cherry Studio
+
+有明显缺点，更新慢，不支持4k设置
 
 下载Cherry Studio，并安装：[https://www.cherry-ai.com/download](https://www.cherry-ai.com/download)
 
