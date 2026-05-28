@@ -30,32 +30,19 @@ API地址：https://api.ikuncode.cc/
 
 ## 方式1：使用 MintImage（跨平台原生客户端，推荐）
 
-[MintImage](https://github.com/aiqinxuancai/MintImage) 是一款专为 gpt-image-2 设计的跨平台 AI 图像生成客户端，支持 Windows、macOS、Android、iOS，开源免费。
+[MintImage](https://github.com/aiqinxuancai/MintImage) 是一款专为 gpt-image-2 设计的跨平台 AI 图像生成客户端，支持 Windows、macOS、Android，开源免费。
 
 下载对应平台的安装包：[Releases](https://github.com/aiqinxuancai/MintImage/releases)
 
-主要特性：
-
-- 文生图 / 图生图，支持参考图上传
-- 丰富的尺寸预设：通用比例、照片、屏幕/视频、Web、移动设备、打印纸张、图稿与插画等多个分类，也支持自定义任意宽高
-- 一次最多批量生成 16 张
-- 多 API 配置切换，方便在不同转发站之间切换
-- 历史记录本地保存，可随时查看和编辑
-- 后台运行，完成后通知提醒
-
 首次打开后，进入设置页填写上面提供的转发站 API 地址、密钥和模型名（`gpt-image-2`），即可在主页输入提示词开始生成。
 
-<!-- 截图占位：MintImage 主界面 -->
-![MintImage 主界面](TODO_mintimage_home.png)
+<img width="1266" height="713" alt="image" src="https://github.com/user-attachments/assets/afe3b498-94d4-44d2-b249-f4b537b9cfeb" />
 
-<!-- 截图占位：MintImage 尺寸选择器 -->
-![MintImage 尺寸选择器](TODO_mintimage_size.png)
+<img width="1266" height="713" alt="image" src="https://github.com/user-attachments/assets/767da949-18ee-4924-bb20-e94122cacfa1" />
 
-<!-- 截图占位：MintImage 生成结果与编辑 -->
-![MintImage 生成结果](TODO_mintimage_result.png)
+<img width="1266" height="713" alt="image" src="https://github.com/user-attachments/assets/9366d8d8-a06c-49a2-9590-1184b340c06e" />
 
-<!-- 截图占位：MintImage 设置页（API 配置） -->
-![MintImage 设置页](TODO_mintimage_settings.png)
+<img width="1266" height="713" alt="image" src="https://github.com/user-attachments/assets/6e7a22e4-a1c3-4dd2-b8ba-4d983682c9a8" />
 
 ---
 
